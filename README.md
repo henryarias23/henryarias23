@@ -1,13 +1,14 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Henry</h1>
-
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 &emsp;
 <h4 align="left"> Hello to all the visitors of my github, welcome to this space where I share all my progress, collaborations and acquired experiences;
-  I hope you are as passionate as me and remember "Coding is a passion and not profession".</h4>
+  I hope you are as passionate as me and remember "Coding is a passion and not profession".</h4> <br><br><br>
 &emsp;
-
 <!--About Me-->
+
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
@@ -64,4 +65,5 @@
 <!--- trophy (start) -->
 </p>        
 <!--- stats (end) -->
+
 
