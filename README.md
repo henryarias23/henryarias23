@@ -1,11 +1,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Henry</h1>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 350px></picture>
 
 &emsp;
 <h4 align="left"> Hello to all the visitors of my github, welcome to this space where I share all my progress, collaborations and acquired experiences;
-  I hope you are as passionate as me and remember "Coding is a passion and not profession".</h4> <br><br><br>
+  I hope you are as passionate as me and remember "Coding is a passion and not profession".</h4> <br><br>
 &emsp;
 <!--About Me-->
 
