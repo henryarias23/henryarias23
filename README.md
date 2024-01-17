@@ -6,7 +6,7 @@
 <h4 align="left"> Hello to all the visitors of my github, welcome to this space where I share all my progress, collaborations and acquired experiences;
   I hope you are as passionate as me and remember "Coding is a passion and not profession".</h4> <br>
 &emsp;
-<!--About Me-->
+<!--About.. Me-->
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
