@@ -47,11 +47,22 @@
 <br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+<!-------------------CUADRO DE ESTADISTICA---------------------------->
+<p align="left">
+<table align="left">
+<tr border="none">
+<a href="https://github.com/AVS1508">
+  <td><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=henryarias23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>     </td>
+  <td><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henryarias23&layout=compact&langs_count=8&theme=algolia"/> </td>
+</a>
+</tr>
+</table>
+</p>
 
-<!--- stats & Trophy (start) -->
+
+<!-----
 
 <p align="left">
-  <!--- stats (start) -->
 <table align="left">
 <tr border="none">
 <td width="50%" align="center">
@@ -68,11 +79,7 @@
   </td>
 </tr>
 </table>
+</P>
 
-<!-------------------CUADRO DE ESTADISTICA---------------------------->
-<p align="left">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=henryarias23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henryarias23&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+------>
+
