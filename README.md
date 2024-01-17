@@ -6,8 +6,8 @@
 <h4 align="left"> Hello to all the visitors of my github, welcome to this space where I share all my progress, collaborations and acquired experiences;
   I hope you are as passionate as me and remember "Coding is a passion and not profession".</h4> <br>
 &emsp;
-<!--About.. Me-->
 
+<!------------------------------------------------------About Me-------------------------------------------------------------------------------------->
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
@@ -25,6 +25,7 @@
 
 <br>
 
+<!-------------------------------------------------------------------------------skills-------------------------------------------------------------------------------------------------->
 ## 🛠️ My Skills
 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
@@ -46,8 +47,9 @@
 
 <br>
 
+<!--------------------------------------------------------------------CUADRO DE ESTADISTICA----------------------------------------------------------------------------------------->
+
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
-<!-------------------CUADRO DE ESTADISTICA---------------------------->
 <p align="left">
 <table align="left">
 <tr border="none">
@@ -60,7 +62,7 @@
 </p>
 
 
-<!-----
+<!---------------------------------------------------------------------------- cuadro opcional de estadistica 
 
 <p align="left">
 <table align="left">
